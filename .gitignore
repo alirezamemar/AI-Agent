@@ -1,1 +1,16 @@
+<<<<<<< HEAD
 .env
+=======
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.env
+>>>>>>> 26a6452edc502ab106a9bdf9bee4d4b9d2539a6f
